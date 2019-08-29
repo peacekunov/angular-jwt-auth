@@ -1,0 +1,9 @@
+{
+  "name": "angular-auth-jwt",
+  "version": "0.1.0",
+  "peerDependencies": {
+    "@angular/common": "^8.2.0",
+    "@angular/core": "^8.2.0",
+    "ngx-cookie-service": "^2.2.0"
+  }
+}
